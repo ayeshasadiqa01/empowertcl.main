@@ -1,0 +1,9 @@
+# Ignore Claude configuration folder
+.claude/
+
+# Optional: Ignore node_modules
+node_modules/
+
+# Optional: Ignore system files
+.DS_Store
+Thumbs.db
